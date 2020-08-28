@@ -1,6 +1,6 @@
 # MPI-Kmeans
-To perform k-means clustering and parallelizing it through MPI.
- Value of k is asked from user.
+To perform k-means clustering and parallelizing it through MPI.  
+ Value of k is asked from user.  
  iris.data is given as a dataset. Read the data from file and ignore the last column of each row in dataset.
 
 To compile:
